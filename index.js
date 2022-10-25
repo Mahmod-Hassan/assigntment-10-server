@@ -10,7 +10,9 @@ const courses = require('./data/courses.json');
 app.get('/', (req, res) => {
     res.send('javascript learning site server')
 })
-
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
 app.listen(port, () => {
     console.log('this site running on port', port);
 })
