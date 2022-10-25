@@ -27,7 +27,7 @@
         "id": "5",
         "name": "JavaScript",
         "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
-        "description": "JavaScript often abbreviated as JS,JavaScript is a high-level, often just-in-time compiled language of web that conforms to the ECMAScript standard.JavaScript can update and change both HTML and CSS. It is used for interectivity on a website. JavaScript can calculate, manipulate and validate data.. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM)."
+        "description": "JavaScript often abbreviated as JS,JavaScript is a high-level, often just-in-time compiled language of web that conforms to the ECMAScript standard.    JavaScript can update and change both HTML and CSS. It is used for interectivity on a website. JavaScript can calculate, manipulate and validate data.. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM)."
     },
     {
         "id": "6",
