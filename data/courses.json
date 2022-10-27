@@ -20,19 +20,19 @@
     {
         "id": "4",
         "name": "TailWind Course",
-        "img": "https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png",
         "description": "Tailwind CSS is open source Css Framework.What is the use of Tailwind CSS? Image result for what is tailwind css Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application."
     },
     {
         "id": "5",
         "name": "JavaScript Course",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
+        "img": "https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png",
         "description": "JavaScript often abbreviated as JS,JavaScript is a high-level, often just-in-time compiled language of web that conforms to the ECMAScript standard.    JavaScript can update and change both HTML and CSS. It is used for interectivity on a website. JavaScript can calculate, manipulate and validate data.. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM)."
     },
     {
         "id": "6",
         "name": "Node Js Course",
-        "img": "https://img.favpng.com/16/11/19/node-js-javascript-web-application-express-js-computer-software-png-favpng-cYmJvJyBDcTNbLdSRdNAceLyW.jpg",
+        "img": "https://img.icons8.com/color/452/nodejs.png",
         "description": "Node.js is an open source server environment. Node.js is free. Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.) Node.js uses JavaScript on the server. Node.js can generate dynamic page content Node.js can create, open, read, write, delete, and close files on the server. Node.js can collect form data. Node.js can add, delete, modify data in your database."
     }
 ]
