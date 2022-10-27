@@ -1,37 +1,37 @@
 [
     {
         "id": "1",
-        "name": "HTML",
+        "name": "Html Course",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
         "description": "HTML is the basic of programming. This is first step for a programmer. If you want to be a good programmer you must know about HTML. HTML means Hyper Text Markup Language. Basically it is used for creating webpage structure.For example defining paragraphs, headings, and data tables, or embedding images and videos in the page."
     },
     {
         "id": "2",
-        "name": "CSS",
+        "name": "Css Course",
         "img": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png",
         "description": "CSS is the second step. CSS means Cascading Style Sheet. Css is use to apply styling of out HTML content. When you create a structure of a webpage then you should use css because it's help you more attractive of you page.For example setting background colors and fonts, and laying out our content in multiple columns. To create a beautiful website you must know about css"
     },
     {
         "id": "3",
-        "name": "BootStrap",
+        "name": "BootStrap Course",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
         "description": "Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites. We can Easily build a responsive website with Bootstrap. Bootstrap 5 is the newest version of Bootstrap"
     },
     {
         "id": "4",
-        "name": "TailWind",
+        "name": "TailWind Course",
         "img": "https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png",
         "description": "Tailwind CSS is open source Css Framework.What is the use of Tailwind CSS? Image result for what is tailwind css Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application."
     },
     {
         "id": "5",
-        "name": "JavaScript",
+        "name": "JavaScript Course",
         "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
         "description": "JavaScript often abbreviated as JS,JavaScript is a high-level, often just-in-time compiled language of web that conforms to the ECMAScript standard.    JavaScript can update and change both HTML and CSS. It is used for interectivity on a website. JavaScript can calculate, manipulate and validate data.. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM)."
     },
     {
         "id": "6",
-        "name": "Node Js",
+        "name": "Node Js Course",
         "img": "https://img.favpng.com/16/11/19/node-js-javascript-web-application-express-js-computer-software-png-favpng-cYmJvJyBDcTNbLdSRdNAceLyW.jpg",
         "description": "Node.js is an open source server environment. Node.js is free. Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.) Node.js uses JavaScript on the server. Node.js can generate dynamic page content Node.js can create, open, read, write, delete, and close files on the server. Node.js can collect form data. Node.js can add, delete, modify data in your database."
     }
